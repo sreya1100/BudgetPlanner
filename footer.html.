@@ -1,0 +1,5 @@
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("Budget Planner script loaded!");
+    // Added some test JavaScript
+});
+
